@@ -1,0 +1,6 @@
+{
+  "name": "TableauPulse Analytics Dashboard",
+  "description": "Tableau-style analytics dashboard with real-time sales trends, regional performance heatmaps, predictive forecasting widgets, and Google Sheets integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
